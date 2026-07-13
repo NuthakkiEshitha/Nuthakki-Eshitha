@@ -19,5 +19,5 @@
 - Git & GitHub
 
 ## Connect with Me
-- LinkedIn: linkedin.com/in/Nuthakki-eshitha
+- LinkedIn: linkedin.com/in/nuthakki-eshitha
 - Email: eshithanuthakki@gmail.com
